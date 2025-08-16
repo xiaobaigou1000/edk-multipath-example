@@ -1,1 +1,2 @@
-# Build workspace is not root path, nothing to ignore by now.
+# Build workspace is not root path, EDK II .gitignore files also valid in subpath
+debug.log
