@@ -840,6 +840,8 @@
       NULL|OvmfPkg/Library/MpInitLibDepLib/PeiMpInitLibUpDepLib.inf
   }
 
+  MyOvmfPkg/NotifyPpiExample/NotifyPpiExample.inf
+
   #
   # Cc Measurement PPI for Td guest
   #

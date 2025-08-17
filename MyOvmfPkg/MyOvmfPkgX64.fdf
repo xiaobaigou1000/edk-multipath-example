@@ -205,6 +205,7 @@ INF  OvmfPkg/SmmAccess/SmmAccessPei.inf
 !endif
 INF  UefiCpuPkg/CpuMpPei/CpuMpPei.inf
 INF  FILE_GUID = $(UP_CPU_PEI_GUID) UefiCpuPkg/CpuMpPei/CpuMpPei.inf
+INF  MyOvmfPkg/NotifyPpiExample/NotifyPpiExample.inf
 
 !include OvmfPkg/Include/Fdf/OvmfTpmPei.fdf.inc
 
