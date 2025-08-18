@@ -20,5 +20,8 @@
   DebugLib
   HobLib
 
+[Ppis]
+  gGetPcdInfoPpiGuid
+
 [Depex]
   TRUE
